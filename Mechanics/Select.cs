@@ -7,9 +7,6 @@ public class Select : MonoBehaviour
 {
     private Transform Current_Selection;
 
-    private bool isCoroutineExecuting = false;
-    public float timer;
-
     private IRayProvider _RayProvider;
     private ISelector _selector;
     private IHave_Selection_Response _selectionresponse;
@@ -29,6 +26,9 @@ public class Select : MonoBehaviour
         //Generate and Check Ray
         _selector.Check_Ray(_RayProvider.Create_Ray());
         Current_Selection = _selector.GetSelection();
+
+        Vector3 forward = Camera.main.transform.TransformDirection(Vector3.forward) * 10;
+        Debug.DrawRay(Camera.main.transform.position, forward, Color.red);
 
         //Select
         Selection();
