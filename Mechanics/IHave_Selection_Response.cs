@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 
-internal interface IHave_Selection_Response
+public interface IHave_Selection_Response
 {
     void SelectObject(Transform selection);
 
     void DeselectObject(Transform selection);
+
+    void DrawOutline(Transform selection);
 }
