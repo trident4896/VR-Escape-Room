@@ -7,8 +7,7 @@ public class Select : MonoBehaviour
 {
     private Transform Current_Selection;
 
-    private bool isCoroutineExecuting = false;
-    public float timer;
+    public static float ray_DelayTimer = 2f;
 
     private IRayProvider _RayProvider;
     private ISelector _selector;
@@ -24,14 +23,22 @@ public class Select : MonoBehaviour
     private void Update()
     {
         //Deselect
-        Deselection();
+            Deselection();
 
         //Generate and Check Ray
-        _selector.Check_Ray(_RayProvider.Create_Ray());
-        Current_Selection = _selector.GetSelection();
+         _selector.Check_Ray(_RayProvider.Create_Ray());
+         Current_Selection = _selector.GetSelection();
+        
+        Vector3 forward = Camera.main.transform.TransformDirection(Vector3.forward) * 10;
+        Debug.DrawRay(Camera.main.transform.position, forward, Color.red);
 
         //Select
         Selection();
+
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
     }
 
     public void Selection()

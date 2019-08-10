@@ -6,5 +6,4 @@ public interface IHave_Selection_Response
 
     void DeselectObject(Transform selection);
 
-    void DrawOutline(Transform selection);
 }
