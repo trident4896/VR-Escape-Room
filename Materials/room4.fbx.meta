@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: b998f000ed5138147917afd7900e8f6d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 10.001
+    100006: 10.002
+    100008: 11
+    100010: 12
+    100012: 13
+    100014: 14
+    100016: 15
+    100018: 16
+    100020: 17
+    100022: 2
+    100024: 3
+    100026: 4
+    100028: 5
+    100030: 6
+    100032: 7
+    100034: 8
+    100036: 9
+    100038: Cap_1
+    100040: Cap_1_10
+    100042: Cap_1_2
+    100044: Cap_1_3
+    100046: Cap_1_4
+    100048: Cap_1_5
+    100050: Cap_1_6
+    100052: Cap_1_7
+    100054: Cap_1_8
+    100056: Cap_1_9
+    100058: Cap_2
+    100060: Cap_2_10
+    100062: Cap_2_2
+    100064: Cap_2_3
+    100066: Cap_2_4
+    100068: Cap_2_5
+    100070: Cap_2_6
+    100072: Cap_2_7
+    100074: Cap_2_8
+    100076: Cap_2_9
+    100078: Chair
+    100080: Cube
+    100082: Cube.001
+    100084: Cushion
+    100086: Desk
+    100088: deskobject
+    100090: drawer
+    100092: drawer handle
+    100094: drawer left arm
+    100096: drawer right arm
+    100098: drawer.001
+    100100: Keyboard
+    100102: left side desk
+    100104: left side desk arm
+    100106: Metal
+    100108: metal
+    100110: metal.001
+    100112: metal.002
+    100114: metal.003
+    100116: Monitor
+    100118: Mouse
+    100120: rail
+    100122: rail.001
+    100124: rail.002
+    100126: Rig
+    100128: right side desk arm
+    100130: right side object
+    100132: Room
+    100134: Room.001
+    100136: //RootNode
+    100138: Rounding_1
+    100140: Rounding_1_2
+    100142: Rounding_1_3
+    100144: Rounding_1_4
+    100146: Rounding_1_5
+    100148: Rounding_2
+    100150: Rounding_2_2
+    100152: Rounding_2_3
+    100154: Rounding_2_4
+    100156: Rounding_2_5
+    100158: Sweep
+    100160: Sweep_1
+    100162: Sweep_2
+    100164: Wall
+    100166: Window
+    100168: Window Frame
+    100170: Window pole
+    100172: Window String
+    400000: 1
+    400002: 10
+    400004: 10.001
+    400006: 10.002
+    400008: 11
+    400010: 12
+    400012: 13
+    400014: 14
+    400016: 15
+    400018: 16
+    400020: 17
+    400022: 2
+    400024: 3
+    400026: 4
+    400028: 5
+    400030: 6
+    400032: 7
+    400034: 8
+    400036: 9
+    400038: Cap_1
+    400040: Cap_1_10
+    400042: Cap_1_2
+    400044: Cap_1_3
+    400046: Cap_1_4
+    400048: Cap_1_5
+    400050: Cap_1_6
+    400052: Cap_1_7
+    400054: Cap_1_8
+    400056: Cap_1_9
+    400058: Cap_2
+    400060: Cap_2_10
+    400062: Cap_2_2
+    400064: Cap_2_3
+    400066: Cap_2_4
+    400068: Cap_2_5
+    400070: Cap_2_6
+    400072: Cap_2_7
+    400074: Cap_2_8
+    400076: Cap_2_9
+    400078: Chair
+    400080: Cube
+    400082: Cube.001
+    400084: Cushion
+    400086: Desk
+    400088: deskobject
+    400090: drawer
+    400092: drawer handle
+    400094: drawer left arm
+    400096: drawer right arm
+    400098: drawer.001
+    400100: Keyboard
+    400102: left side desk
+    400104: left side desk arm
+    400106: Metal
+    400108: metal
+    400110: metal.001
+    400112: metal.002
+    400114: metal.003
+    400116: Monitor
+    400118: Mouse
+    400120: rail
+    400122: rail.001
+    400124: rail.002
+    400126: Rig
+    400128: right side desk arm
+    400130: right side object
+    400132: Room
+    400134: Room.001
+    400136: //RootNode
+    400138: Rounding_1
+    400140: Rounding_1_2
+    400142: Rounding_1_3
+    400144: Rounding_1_4
+    400146: Rounding_1_5
+    400148: Rounding_2
+    400150: Rounding_2_2
+    400152: Rounding_2_3
+    400154: Rounding_2_4
+    400156: Rounding_2_5
+    400158: Sweep
+    400160: Sweep_1
+    400162: Sweep_2
+    400164: Wall
+    400166: Window
+    400168: Window Frame
+    400170: Window pole
+    400172: Window String
+    2100000: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B"
+    2100002: No Name
+    2300000: 1
+    2300002: 10
+    2300004: 10.001
+    2300006: 10.002
+    2300008: 11
+    2300010: 12
+    2300012: 13
+    2300014: 14
+    2300016: 15
+    2300018: 16
+    2300020: 17
+    2300022: 2
+    2300024: 3
+    2300026: 4
+    2300028: 5
+    2300030: 6
+    2300032: 7
+    2300034: 8
+    2300036: 9
+    2300038: Cap_1
+    2300040: Cap_1_10
+    2300042: Cap_1_2
+    2300044: Cap_1_3
+    2300046: Cap_1_4
+    2300048: Cap_1_5
+    2300050: Cap_1_6
+    2300052: Cap_1_7
+    2300054: Cap_1_8
+    2300056: Cap_1_9
+    2300058: Cap_2
+    2300060: Cap_2_10
+    2300062: Cap_2_2
+    2300064: Cap_2_3
+    2300066: Cap_2_4
+    2300068: Cap_2_5
+    2300070: Cap_2_6
+    2300072: Cap_2_7
+    2300074: Cap_2_8
+    2300076: Cap_2_9
+    2300078: Cube
+    2300080: Cube.001
+    2300082: Cushion
+    2300084: drawer
+    2300086: drawer handle
+    2300088: drawer left arm
+    2300090: drawer right arm
+    2300092: drawer.001
+    2300094: Keyboard
+    2300096: left side desk arm
+    2300098: Metal
+    2300100: metal
+    2300102: metal.001
+    2300104: metal.002
+    2300106: metal.003
+    2300108: Monitor
+    2300110: Mouse
+    2300112: rail.001
+    2300114: rail.002
+    2300116: right side desk arm
+    2300118: Rounding_1
+    2300120: Rounding_1_2
+    2300122: Rounding_1_3
+    2300124: Rounding_1_4
+    2300126: Rounding_1_5
+    2300128: Rounding_2
+    2300130: Rounding_2_2
+    2300132: Rounding_2_3
+    2300134: Rounding_2_4
+    2300136: Rounding_2_5
+    2300138: Sweep
+    2300140: Sweep_1
+    2300142: Sweep_2
+    2300144: Wall
+    2300146: Window Frame
+    2300148: Window pole
+    2300150: Window String
+    3300000: 1
+    3300002: 10
+    3300004: 10.001
+    3300006: 10.002
+    3300008: 11
+    3300010: 12
+    3300012: 13
+    3300014: 14
+    3300016: 15
+    3300018: 16
+    3300020: 17
+    3300022: 2
+    3300024: 3
+    3300026: 4
+    3300028: 5
+    3300030: 6
+    3300032: 7
+    3300034: 8
+    3300036: 9
+    3300038: Cap_1
+    3300040: Cap_1_10
+    3300042: Cap_1_2
+    3300044: Cap_1_3
+    3300046: Cap_1_4
+    3300048: Cap_1_5
+    3300050: Cap_1_6
+    3300052: Cap_1_7
+    3300054: Cap_1_8
+    3300056: Cap_1_9
+    3300058: Cap_2
+    3300060: Cap_2_10
+    3300062: Cap_2_2
+    3300064: Cap_2_3
+    3300066: Cap_2_4
+    3300068: Cap_2_5
+    3300070: Cap_2_6
+    3300072: Cap_2_7
+    3300074: Cap_2_8
+    3300076: Cap_2_9
+    3300078: Cube
+    3300080: Cube.001
+    3300082: Cushion
+    3300084: drawer
+    3300086: drawer handle
+    3300088: drawer left arm
+    3300090: drawer right arm
+    3300092: drawer.001
+    3300094: Keyboard
+    3300096: left side desk arm
+    3300098: Metal
+    3300100: metal
+    3300102: metal.001
+    3300104: metal.002
+    3300106: metal.003
+    3300108: Monitor
+    3300110: Mouse
+    3300112: rail.001
+    3300114: rail.002
+    3300116: right side desk arm
+    3300118: Rounding_1
+    3300120: Rounding_1_2
+    3300122: Rounding_1_3
+    3300124: Rounding_1_4
+    3300126: Rounding_1_5
+    3300128: Rounding_2
+    3300130: Rounding_2_2
+    3300132: Rounding_2_3
+    3300134: Rounding_2_4
+    3300136: Rounding_2_5
+    3300138: Sweep
+    3300140: Sweep_1
+    3300142: Sweep_2
+    3300144: Wall
+    3300146: Window Frame
+    3300148: Window pole
+    3300150: Window String
+    4300000: Window String
+    4300002: 1
+    4300004: 2
+    4300006: 10
+    4300008: 11
+    4300010: 12
+    4300012: 13
+    4300014: 14
+    4300016: 15
+    4300018: 16
+    4300020: 17
+    4300022: 3
+    4300024: 4
+    4300026: 5
+    4300028: 6
+    4300030: 7
+    4300032: 8
+    4300034: 9
+    4300036: 10.001
+    4300038: 10.002
+    4300040: Wall
+    4300042: Window Frame
+    4300044: Keyboard
+    4300046: Sweep_2
+    4300048: Cap_1
+    4300050: Cap_2
+    4300052: Sweep_1
+    4300054: Cap_1_2
+    4300056: Cap_2_2
+    4300058: metal.001
+    4300060: metal.002
+    4300062: metal.003
+    4300064: metal
+    4300066: Metal
+    4300068: rail.001
+    4300070: Cap_1_3
+    4300072: Cap_2_3
+    4300074: rail.002
+    4300076: Cap_1_4
+    4300078: Cap_2_4
+    4300080: Cushion
+    4300082: Sweep
+    4300084: Cap_1_5
+    4300086: Cap_2_5
+    4300088: Mouse
+    4300090: Monitor
+    4300092: drawer handle
+    4300094: drawer
+    4300096: drawer.001
+    4300098: Rounding_1
+    4300100: Cap_1_6
+    4300102: Rounding_2
+    4300104: Cap_2_6
+    4300106: right side desk arm
+    4300108: Rounding_1_2
+    4300110: Cap_1_7
+    4300112: Rounding_2_2
+    4300114: Cap_2_7
+    4300116: drawer right arm
+    4300118: Rounding_1_3
+    4300120: Cap_1_8
+    4300122: Rounding_2_3
+    4300124: Cap_2_8
+    4300126: drawer left arm
+    4300128: Rounding_1_4
+    4300130: Cap_1_9
+    4300132: Rounding_2_4
+    4300134: Cap_2_9
+    4300136: left side desk arm
+    4300138: Rounding_1_5
+    4300140: Cap_1_10
+    4300142: Rounding_2_5
+    4300144: Cap_2_10
+    4300146: Window pole
+    4300148: Cube
+    4300150: Cube.001
+    7400000: "Chair|\u0441\u0442\u0443\u043B|CINEMA_4D_________ _____|Layer0"
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
