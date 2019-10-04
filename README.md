@@ -1,7 +1,6 @@
 # VR-Escape-Room
 
 Working Title: Blaze
-- On-Going Project - 
 (Mobile Android)
 
 **This is an on-going project which started during the internship period of working as a programmer at Spacepup Entertainment.
