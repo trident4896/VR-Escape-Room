@@ -3,7 +3,7 @@
 Working Title: Blaze
 (Mobile Android)
 
-**This is an on-going project which started during the internship period of working as a programmer at Spacepup Entertainment.
+**This is a project which started during the internship period of working as a programmer at Spacepup Entertainment.
 **All the assets and materials are reserved rights by Spacepup Entertainment. 
 
 Backstory
